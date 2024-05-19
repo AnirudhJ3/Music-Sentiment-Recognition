@@ -34,10 +34,8 @@ The project is organized into the following directories and files:
 
 
 ## Running the scripts
+- Running the cells in python notebooks will execute all the steps of this project
 
-```
-Running the cells in python notebooks will execute all the steps of this project
-```
 
 ## Usage
 1. **Data Preparation**: Ensure the dataset containing audio files and corresponding annotations is available in the `data/` directory.
