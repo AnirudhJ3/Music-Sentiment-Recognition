@@ -46,9 +46,5 @@ The project is organized into the following directories and files:
 
 ## Notes
 - The project provides basic implementations of LSTM and Transformer models for music sentiment analysis. Further customization and optimization may be required based on specific use cases and requirements.
-- Due to the resource-intensive nature of training Transformer models, it's recommended to utilize powerful hardware or cloud computing resources for optimal performance.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-For any questions or inquiries, please contact [your email address].
